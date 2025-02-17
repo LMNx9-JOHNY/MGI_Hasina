@@ -1,6 +1,6 @@
 # হাসিনা দৌড়া - Funny Game
 
-- হাসিনা দৌড়া Game Developed For Fun. Simple &amp; Funny
+- হাসিনা দৌড়া Game Developed For Fun.
 - Developer : [LMNx9](https://t.me/x_LMNx9)
 - Telegram Channel : [Join Now](https://t.me/TEAM_LMNx9)
 
